@@ -68,3 +68,4 @@
 .details {
   text-align: left;
 }
+NODE_OPTIONS=--openssl-legacy-provider
